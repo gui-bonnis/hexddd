@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/command/command-api-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/query/query-api-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/query/query-api-rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/query/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-in/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/data/data-postgres-db1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/message/message-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/message/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/webclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/webclient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/adapter-out/webclient/webclient-rest-app1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/core/application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/core/application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/core/domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file:///src/main/java" charset="UTF-8" />
+  </component>
+</project>
