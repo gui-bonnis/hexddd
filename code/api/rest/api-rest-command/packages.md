@@ -1,0 +1,1 @@
+mkdir -p adapter/adapter-in/command/command-rest/{api,config,exception/handle,mapper,security,validation}

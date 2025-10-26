@@ -1,2 +1,3 @@
-server:
-  port: 8081
+otel:
+  sdk:
+  disabled: true
